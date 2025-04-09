@@ -8,8 +8,9 @@
 
 Here are some ideas to get you started:
 
-- 🌱 Current MSc Statistics student @ Imperial College London
-- 🔭 BSc Applied Mathematics
+- 🌱 Current StatML PhD student @ Imperial College London
+- 🔭 MSc Statistics
+- ⚡ BSc Applied Mathematics
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
